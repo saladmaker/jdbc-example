@@ -4,7 +4,7 @@ INSERT INTO PERSON(per_name) VALUES('yacine');
 INSERT INTO PERSON(per_name) VALUES('lotfi');
 INSERT INTO PERSON(per_name) VALUES('abdelkader');
 INSERT INTO PERSON(per_name) VALUES('youcef');
-INSERT INTO PERSON(per_name) VALUES('zamel');
-INSERT INTO PERSON(per_name) VALUES('9ahba');
-INSERT INTO PERSON(per_name) VALUES('na9ch');
+INSERT INTO PERSON(per_name) VALUES('h');
+INSERT INTO PERSON(per_name) VALUES('t');
+INSERT INTO PERSON(per_name) VALUES('n');
 
